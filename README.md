@@ -1,4 +1,6 @@
 <div align="center">
+    <br>
+    <br>
     <a href="https://www.npmjs.com/package/@j.k.bi/react-gantt">
         <img width="150" height="150" src="https://github.com/jkiss/Public/blob/master/2021/Logo.png?raw=true">
     </a>
