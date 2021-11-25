@@ -69,12 +69,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jkiss/React-Gantt.git"
+    "url": "git@github.com:jkiss/React-Gantt-Lib.git"
   },
   "bugs": {
-    "url": "https://github.com/jkiss/React-Gantt/issues"
+    "url": "https://github.com/jkiss/React-Gantt-Lib/issues"
   },
-  "homepage": "https://github.com/jkiss/React-Gantt",
+  "homepage": "https://github.com/jkiss/React-Gantt-Lib",
   "eslintConfig": {
     "rules": {
       "no-unused-vars": 0
