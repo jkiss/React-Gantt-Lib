@@ -40,8 +40,8 @@ npm i @j.k.bi/react-gantt
 ## Usage
 
 ```js
+import '@j.k.bi/react-gantt/lib/style.css'
 import GanttReact from '@j.k.bi/react-gantt'
-import GanttReact from '@j.k.bi/react-gantt/lib/style.css'
 
 const config = {
     title: "业务甘特图",
