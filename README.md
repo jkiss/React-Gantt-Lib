@@ -41,6 +41,8 @@ npm i @j.k.bi/react-gantt
 
 ## Usage
 
+[View the demo »](https://codesandbox.io/s/gantt-react-demo-d0j02)
+
 ```js
 import '@j.k.bi/react-gantt/lib/style.css'
 import GanttReact from '@j.k.bi/react-gantt'
