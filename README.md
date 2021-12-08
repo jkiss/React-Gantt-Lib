@@ -11,6 +11,7 @@
 ![License ISC][license-image] 
 [![Gitter][gitter-image]][gitter-url]
 ![Nodejs][node-image]
+![](https://badgen.net/bundlephobia/minzip/@j.k.bi/react-gantt)
 
 <h1>React Gantt</h1>
 <p>
