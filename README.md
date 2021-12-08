@@ -64,10 +64,10 @@ const config = {
                 startTime: '2021-03-31 23:00',
                 endTime: '2021-04-01 02:25',
             },
-            averageTime: 3600000,  // 任务完成平均时间 - 毫秒
-            highlightPoints: [{ // 错误点
-                time: '2021-04-01 02:10',
-            }]
+            // averageTime: 3600000,  // 任务完成平均时间 - 毫秒
+            // highlightPoints: [{ // 错误点
+            //     time: '2021-04-01 02:10',
+            // }]
         }, {
             id: '2',
             name: '小李', // 任务所属人姓名
@@ -107,6 +107,15 @@ const config = {
 | startDate | String | `Date string` | `e.g. '2021-03-31 22:15'`, chart start date |
 | endDate | String | `Date string` | `e.g. '2021-03-31 22:15'`, chart end date |
 | nodes | Array.<{}> | `[]` | list of task object |
+
+## Dependencies
+
+| Name               | Bundle size           | Bundle size (gzip)              | Dependencies       |
+| ------------------ | --------------------- | ------------------------------- | ------------------ |
+| classnames | ![](https://badgen.net/bundlephobia/min/classnames?color=6ead0a&label=)    | ![](https://badgen.net/bundlephobia/minzip/classnames?color=6ead0a&label=)   | ![](https://badgen.net/bundlephobia/dependency-count/classnames?color=6ead0a&label=)   |
+| dayjs | ![](https://badgen.net/bundlephobia/min/dayjs?color=6ead0a&label=)    | ![](https://badgen.net/bundlephobia/minzip/dayjs?color=6ead0a&label=)   | ![](https://badgen.net/bundlephobia/dependency-count/dayjs?color=6ead0a&label=)   |
+| react-calendar | ![](https://badgen.net/bundlephobia/min/react-calendar?color=red&label=)    | ![](https://badgen.net/bundlephobia/minzip/react-calendar?color=red&label=)   | ![](https://badgen.net/bundlephobia/dependency-count/react-calendar?color=red&label=)   |
+
 
 ## Browser Support
 
